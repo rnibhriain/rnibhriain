@@ -26,3 +26,10 @@
     <img alt="Gmail Badge" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
 </div>
+
+### My Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnibhriain&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rnibhriain&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
