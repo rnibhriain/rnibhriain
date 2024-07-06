@@ -5,6 +5,17 @@
 - 🔬 Secure Software Engineering Masters Student - Dublin City University
 - 📘 BA Mod Computer Science - Trinity College Dublin
 
+### Languages:
+<div>
+  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white"/>
+  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"/>
+  <img alt="ARM Assembly" src="https://img.shields.io/badge/Arm%20Keil-394049.svg?style=for-the-badge&logo=Arm-Keil&logoColor=white"/>
+  <img alt="Haskell" src="https://img.shields.io/badge/Haskell-5D4F85.svg?style=for-the-badge&logo=Haskell&logoColor=white"/>
+</div>
+
 
 ### Contact me
 <div id="badges">
