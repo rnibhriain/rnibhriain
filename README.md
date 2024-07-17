@@ -32,8 +32,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rnibhriain&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<!--- [Snake animation](https://raw.githubusercontent.com/rnibhriain/rnibhriain/output/github-contribution-grid-snake-dark.svg) -->
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rnibhriain/rnibhriain/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rnibhriain/rnibhriain/output/github-contribution-grid-snake.svg" />
