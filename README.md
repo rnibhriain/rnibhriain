@@ -28,11 +28,14 @@
 </div>
 
 ### My Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnibhriain&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rnibhriain&layout=compact&theme=vision-friendly-dark" />
   <img alt="TopLangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnibhriain&layout=compact&theme=default#gh-light-mode-only" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="http://github-readme-streak-stats.herokuapp.com?user=rnibhriain&theme=dark&background=000000" />
+  <img alt="Streak" src="http://github-readme-streak-stats.herokuapp.com?user=rnibhriain&theme=default#gh-light-mode-only" />
 </picture>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rnibhriain&theme=dark&background=000000)](https://git.io/streak-stats)
