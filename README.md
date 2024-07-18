@@ -29,7 +29,7 @@
 
 ### My Stats
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rnibhriain&layout=compact&theme=vision-friendly-dark" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rnibhriain&layout=compact&theme=dark#gh-dark-mode-only" />
   <img alt="TopLangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnibhriain&layout=compact&theme=default#gh-light-mode-only" />
 </picture>
 
