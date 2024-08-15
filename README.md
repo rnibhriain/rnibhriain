@@ -2,7 +2,7 @@
 
 
 ### About me 👩‍💻:
-- 🔬 Secure Software Engineering Masters Student - Dublin City University
+- 🔬 MSc Secure Software Engineering - Dublin City University
 - 📘 BA Mod Computer Science - Trinity College Dublin
 
 ### Languages:
