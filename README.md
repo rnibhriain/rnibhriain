@@ -2,6 +2,7 @@
 
 
 ### About me 👩‍💻:
+- :computer: Software Engineer
 - 🔬 MSc Secure Software Engineering - Dublin City University
 - 📘 BA Mod Computer Science - Trinity College Dublin
 
