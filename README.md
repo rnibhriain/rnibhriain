@@ -20,7 +20,7 @@
 
 ### Contact me
 <div id="badges">
-  <a href="https://www.linkedin.com/in/róisín-ní-bhriain-8b685429b">
+  <a href="https://www.linkedin.com/in/roisin-ni-bhriain">
     <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:roisinnib@gmail.com">
