@@ -2,7 +2,7 @@
 
 
 ### About me 👩‍💻:
-- :computer: Software Engineer
+- :computer: Software Engineer @ Arista Networks
 - 🔬 MSc Secure Software Engineering - Dublin City University
 - 📘 BA Mod Computer Science - Trinity College Dublin
 
